@@ -1,22 +1,29 @@
-# kodluyoruzilkrepo
-Kodluyoruz Front-End Eğitimi kapsamında açtığım ilk repo
+# Kodluyoruz Ilk Repo
 
-## Ödev 1
-#### GitHub'ta Repo İşlemleri
-Şu ana kadar bir sürü konu gördük ve birçok proje üzerinde çalıştık. Peki bu projeleri nasıl takip edeceğiz, nasıl derli toplu şekilde tutacağız? İşte burada GIT yardımımıza koşuyor. Bu bölümde öğrendiğiniz gibi GIT'in birçok avantajı var. Ve öğrendiklerinizi pekiştirmek için çok güzel bir ödevimiz var.
+Bu repo [Kodluyoruz](https://www.kodluyoruz.org) Front-End Eğitiminde oluşturduğumuz ilk repo. İçerisinde bir adet README dosyası, bir adet de index.html barındırıyor.
 
-* GitHub'ta bir repo açıp adını "kodluyoruzilkrepo" koyun.
-* Reponuzu public olarak oluşturun ki biz de daha sonradan görebilelim.
-* Description kısmına "Kodluyoruz Eğitimi kapsamında açtığım ilk repo" yazın.
-* "Add a README file" seçeneğini seçin.
-* "Choose a license" seçeneğini seçip "MIT License" seçeneğini seçin. Lisanslar ile alakalı detaylı bilgi için Choose a License sitesini ziyaret edebilirsiniz.
+## Installation
 
-![image](https://user-images.githubusercontent.com/73742369/190923212-8dcf1c01-b00d-453b-8b43-a97d87d726e9.png)
+Öncelikle projeyi clonelayın.
 
-Evet ilk repomuzu oluşturduk. Bundan sonraki adımda oluşturduğumuz repoyu bilgisayarımıza klonlamak olacak.
+```bash
+git clone https://github.com/senel-ekin/kodluyoruzilkrepo.git
+```
 
-* Repoyu açıp Code yazan yeşil butona tıklayın ve oradaki bağlantı ile bilgisayarınıza klonlayın. GIT komutları için GitHub GIT Cheat Sheet'i kullanabilirsiniz.
-* Repoyu bilgisayarımıza aldıktan sonra içine README.md adında bir Markdown dosya oluşturun.
-* Markdown içeriği aşağıdaki gibi olacak şekilde düzenleyin. Markdown için önceki konumuza bakabilirsiniz.
+## Usage
 
-![image](https://user-images.githubusercontent.com/73742369/190923240-1da203c6-e618-4c99-8945-9d412ec1d249.png)
+Projeyi cloneladıktan sonra Visual Studio Code programını açınız.
+
+Linux için:
+```linux
+cd kodluyoruzilkrepo
+code .
+```
+
+## Contributing
+
+Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi değiştirmek istediğinizi tartışmak için bir konu açınız.
+
+## License
+
+[MIT](https://choosealicense.com/licenses/mit/)
